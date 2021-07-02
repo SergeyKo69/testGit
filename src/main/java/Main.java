@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 /**
  * @author S.Kogut on 30.06.2021
@@ -6,6 +5,6 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         System.out.println("First");
-        System.out.println("args = " + Arrays.deepToString(args));
+        System.out.println("args = ");
     }
 }
