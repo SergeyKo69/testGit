@@ -8,6 +8,6 @@ public class Main {
         System.out.println("First");
         System.out.println("args = ");
         System.out.println("Changes second branch");
-        System.out.println("Changes third branch");
+        System.out.println("Changes third branch 2");
     }
 }
