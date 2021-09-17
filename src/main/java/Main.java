@@ -5,6 +5,7 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("first commit");
+        System.out.println("master commit");
+        System.out.println("master commit 2");
     }
 }
