@@ -9,4 +9,12 @@ public class Main {
         System.out.println("second commit");
         System.out.println("third commit");
     }
+
+    public void first() {
+
+    }
+
+    public void second() {
+
+    }
 }
